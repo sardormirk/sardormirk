@@ -3,3 +3,5 @@
 - 🌱 I’m currently learning C++ and C#
 
 - Socials: Instagram: sardor.ehss
+
+dmoj profile: https://dmoj.ca/user/donkogronko
