@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @voidblob
-- 👀 I’m interested in game development and competitive programming
-- 🌱 I’m currently learning C++ and C#
+- 👀 I’m interested in web development and competitive programming
+- 🌱 I’m currently learning web technologies like React
 
-- Socials: Instagram: sardor.ehss
+- Socials: linkedin: https://www.linkedin.com/in/sardor-mirkomilov-280170230/
 
 dmoj profile: https://dmoj.ca/user/donkogronko
