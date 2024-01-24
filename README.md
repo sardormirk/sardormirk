@@ -5,7 +5,7 @@
 
 <div align="center" style="margin-bottom:200px">
  <img width=45% align="center" src="https://github-readme-stats.vercel.app/api?username=voidblob&theme=radical&show_icons=true" />
- <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=voidblob&layout=compact&theme=radical&exclude_repo=VerticalSliderProject,Button,Responsive-Website,CompanySite-master" />
+ <img width=34.1% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=voidblob&theme=radical&layout=compact" />
 </div>
 
 
