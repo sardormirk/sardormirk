@@ -37,10 +37,9 @@
 Skills: `Linear Algebra` `Algorithms and Datastructures` `Software Architecture` `Digital Circuits and Systems`
 `Hardware Design` `Electronic Circuits` `Software Development` 
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://avatars.githubusercontent.com/u/84106750?s=200&v=4"/>](https://github.com/UWOrbital)
-**Firmware Developer** \
-[**Uwaterloo Orbital - Student Design Team**](https://github.com/UWOrbital) • In progress \
-Skills: `C` `FreeRTOS` `MCU Firmware Development`  `Driver Development` 
+**Firmware Team Lead** \
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://avatars.githubusercontent.com/u/23698487?s=200&v=4"/>](https://github.com/waterloop)
+[**Waterloop - Student Design Team**](https://github.com/waterloop) • 2024 - Present\
 <br>
 
 ## Contact me:
